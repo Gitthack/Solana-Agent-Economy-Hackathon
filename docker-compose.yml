@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  demo:
+    build: .
+    container_name: solana_agent_demo
+    volumes:
+      - ./:/app
+    tty: true
