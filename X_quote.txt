@@ -1,0 +1,1 @@
+Solana Agent Economy Hackathon submission: Agent Market Maker — passive market-making skill for SOL/USDC. Demo & code: https://github.com/Gitthack/Solana-Agent-Economy-Hackathon/releases/latest @trendsdotfun @solana_devs @BitgetWallet #AgentTalentShow
